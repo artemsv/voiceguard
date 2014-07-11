@@ -8,7 +8,11 @@ Language: C
 
 IDE: Code::Blocks
 
-Compiler AVR GCC
+Compiler: AVR GCC
+
+Microcontroller: Atmega128
+
+Modeling Software: Proteus
 
 Years: 2006-2007 
 
