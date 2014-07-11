@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="All" />
+	<File name="..\CodeBlocksBUG.inc" open="0" top="0" tabpos="9">
+		<Cursor position="602" topLine="0" />
+	</File>
+	<File name="..\DTMF.c" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="..\DTMF.h" open="1" top="0" tabpos="7">
+		<Cursor position="86" topLine="0" />
+	</File>
+	<File name="..\VG.c" open="1" top="0" tabpos="1">
+		<Cursor position="92793" topLine="3283" />
+	</File>
+	<File name="Makefile" open="1" top="0" tabpos="9">
+		<Cursor position="2521" topLine="92" />
+	</File>
+	<File name="..\XDevMon.c" open="1" top="1" tabpos="2">
+		<Cursor position="12617" topLine="308" />
+	</File>
+	<File name="..\at45.c" open="1" top="0" tabpos="8">
+		<Cursor position="1457" topLine="33" />
+	</File>
+	<File name="..\ds1307.c" open="0" top="0" tabpos="8">
+		<Cursor position="1775" topLine="59" />
+	</File>
+	<File name="..\kbd.c" open="0" top="0" tabpos="3">
+		<Cursor position="1600" topLine="30" />
+	</File>
+	<File name="..\kbd.h" open="0" top="0" tabpos="6">
+		<Cursor position="15" topLine="0" />
+	</File>
+	<File name="..\lcd.c" open="1" top="0" tabpos="6">
+		<Cursor position="734" topLine="27" />
+	</File>
+	<File name="..\stdafx.h" open="1" top="0" tabpos="3">
+		<Cursor position="4114" topLine="129" />
+	</File>
+	<File name="..\tim.c" open="0" top="0" tabpos="3">
+		<Cursor position="273" topLine="10" />
+	</File>
+	<File name="..\usart.c" open="0" top="0" tabpos="5">
+		<Cursor position="1830" topLine="54" />
+	</File>
+	<File name="..\vg.h" open="1" top="0" tabpos="5">
+		<Cursor position="338" topLine="0" />
+	</File>
+	<File name="..\xdevmon.h" open="1" top="0" tabpos="4">
+		<Cursor position="2361" topLine="34" />
+	</File>
+</CodeBlocks_layout_file>

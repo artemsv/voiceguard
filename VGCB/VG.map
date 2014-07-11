@@ -1,0 +1,1098 @@
+Archive member included because of file (symbol)
+
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_clear_bss.o)
+                              VG.o (__do_clear_bss)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_fixunssfsi.o)
+                              VG.o (__fixunssfsi)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_addsub_sf.o)
+                              VG.o (__addsf3)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_mul_sf.o)
+                              VG.o (__mulsf3)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_div_sf.o)
+                              VG.o (__divsf3)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_ge_sf.o)
+                              C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_fixunssfsi.o) (__gesf2)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_si_to_sf.o)
+                              VG.o (__floatsisf)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_sf_to_si.o)
+                              C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_fixunssfsi.o) (__fixsfsi)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_thenan_sf.o)
+                              C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_addsub_sf.o) (__thenan_sf)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_prologue.o)
+                              C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_addsub_sf.o) (__prologue_saves__)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_epilogue.o)
+                              C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_addsub_sf.o) (__epilogue_restores__)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_pack_sf.o)
+                              C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_addsub_sf.o) (__pack_f)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_unpack_sf.o)
+                              C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_addsub_sf.o) (__unpack_f)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                              C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_ge_sf.o) (__fpcmp_parts_f)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(atoi.o)
+                              VG.o (atoi)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(atol.o)
+                              VG.o (atol)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                              VG.o (memcpy)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(memset.o)
+                              VG.o (memset)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strcat.o)
+                              VG.o (strcat)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                              VG.o (strcmp)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                              VG.o (strcpy)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strlen.o)
+                              VG.o (strlen)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                              VG.o (strncmp)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                              VG.o (strncpy)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strupr.o)
+                              VG.o (strupr)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(itoa.o)
+                              VG.o (itoa)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                              VG.o (ltoa)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                              C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(atol.o) (__mulsi_const_10)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(mul10.o)
+                              C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(atoi.o) (__mulhi_const_10)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ee_rb.1C1D1E.o)
+                              VG.o (__eeprom_read_byte_1C1D1E)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ee_rw.1C1D1E.o)
+                              utils.o (__eeprom_read_word_1C1D1E)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ee_wb.1C1D1E.o)
+                              VG.o (__eeprom_write_byte_1C1D1E)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ee_ww.1C1D1E.o)
+                              XDevMon.o (__eeprom_write_word_1C1D1E)
+C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strrev.o)
+                              C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(itoa.o) (strrev)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_udivmodhi4.o)
+                              C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(itoa.o) (__udivmodhi4)
+C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_udivmodsi4.o)
+                              C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ltoa.o) (__udivmodsi4)
+
+Allocating common symbols
+Common symbol       size              file
+
+unorm               0x4               VG.o
+eee                 0x2               VG.o
+voicePresent        0x1               VG.o
+tmp                 0x1               VG.o
+g_lastDTMFCod       0x1               VG.o
+g_lastIntervalCount
+                    0x2               VG.o
+g_DefferedSensorsState_
+                    0x1               VG.o
+keyTail             0x2               kbd.o
+g_LineModeAnalizeResultToSPI
+                    0x1               VG.o
+g_Galka             0x1               VG.o
+g_szLastNumber      0x11              VG.o
+g_WaitableTimer     0x1               XDevMon.o
+g_oldSetupCurItem   0x1               VG.o
+g_StreamStartPage   0x2               XDevMon.o
+dacThresholdLOW     0x10              VG.o
+g_sampleDiff        0x1               VG.o
+g_lastPacket        0x10              XDevMon.o
+helloCounter        0x1               VG.o
+g_x232Interval      0x1               XDevMon.o
+g_oldSampleDiff     0x1               VG.o
+pwr                 0x2               VG.o
+link_state          0x4               XDevMon.o
+sensorsTopLimit2    0x2               VG.o
+g_devListReactionTimeouts
+                    0x10              XDevMon.o
+dacThresholdHIGHT   0x10              VG.o
+g_telon             0x1               VG.o
+g_BuiltSensorsPollInterval
+                    0x1               VG.o
+g_canShowTime       0x1               VG.o
+i_TmpSinValA        0x2               DTMF.o
+g_wasOne            0x1               VG.o
+g_SetupItem         0x1               VG.o
+g_DefferedSensorsState
+                    0x1               VG.o
+g_dtmfPasswordPermission
+                    0x1               VG.o
+spiTransferComplete
+                    0x1               spi.o
+g_szSetupPassword   0xb               VG.o
+dontStartConfirmTimer
+                    0x1               VG.o
+advancedLineMode    0x1               VG.o
+sensorsBottomLimit  0x4               VG.o
+delaySetOhrana      0x2               VG.o
+analizeTELIN        0x1               VG.o
+pMasItems           0x2               VG.o
+g_prevIntervalType  0x1               VG.o
+g_dtmfCmdBufLast    0xa               VG.o
+g_dtmfTmp           0x1               VG.o
+g_wasConfirm        0x1               VG.o
+g_StreamMode        0x1               XDevMon.o
+g_attemptCounterTheSameNumber
+                    0x1               VG.o
+progressPos         0x1               VG.o
+g_wasRequest        0x1               VG.o
+g_StreamEndPage     0x2               XDevMon.o
+www                 0x1               VG.o
+sensorsBottomLimit2
+                    0x2               VG.o
+g_StreamCurByteCounter
+                    0x2               XDevMon.o
+g_sameIntervalCounter
+                    0x2               VG.o
+g_Mode              0x1               VG.o
+g_speakerVolume     0x1               VG.o
+psvSensor_num       0x1               VG.o
+g_hf                0x1               VG.o
+linemode            0x1               VG.o
+g_dtmfPSWOk         0x1               VG.o
+g_fallCounter       0x1               VG.o
+g_ShowTime          0x1               VG.o
+telinDivider        0x1               VG.o
+sensorsTopLimit     0x4               VG.o
+modeBeforeZvonok    0x1               VG.o
+progress            0x1               VG.o
+g_wasEnteringCall   0x1               VG.o
+cur_file            0x212             fatx.o
+keyHead             0x2               kbd.o
+g_needHello         0x1               VG.o
+a2dCompleteFlag     0x1               a2d.o
+useLocalDTMF        0x1               VG.o
+g_readyPacket       0x10              XDevMon.o
+g_devList           0x15              XDevMon.o
+g_dtmfCmdBuf        0xa               VG.o
+g_dtmfCmdBufPosLast
+                    0x1               VG.o
+g_oldSetupFirstLine
+                    0x1               VG.o
+defferedOhranaEvent
+                    0x2               VG.o
+g_curBarValue       0x1               VG.o
+g_PollEnable        0x1               XDevMon.o
+g_bSilent           0x1               VG.o
+g_LastKey           0x1               VG.o
+g_nextVoice         0x1               VG.o
+esp                 0x2               VG.o
+rootdir             0x200             fatx.o
+g_dtmfMode          0x1               VG.o
+g_VoiceQueue        0x40              VG.o
+g_packetReply       0x10              XDevMon.o
+g_DTMFEnterPressCounter
+                    0x1               VG.o
+g_CurDev            0x1c              XDevMon.o
+g_DecTimeoutDev     0x1               XDevMon.o
+lastLinemode        0x1               VG.o
+g_GalkaPunkt        0x1               VG.o
+g_sendOhranaEventMsgInProgress
+                    0x1               VG.o
+g_IntervalCount     0x2               VG.o
+g_DefferedWork      0x1               VG.o
+dacRes              0x10              VG.o
+g_x232TimeOut       0x1               XDevMon.o
+sensors             0x1               VG.o
+timer0delay         0x1               VG.o
+builtinSensorsPollInterval
+                    0x1               VG.o
+g_cancelPressCount  0x1               VG.o
+i_TmpSinValB        0x2               DTMF.o
+g_CurMenuMaxItems   0x1               VG.o
+zvukpage            0x2               VG.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5/crtm128.o
+LOAD VG.o
+LOAD twimaster.o
+LOAD tim.o
+LOAD lcd.o
+LOAD kbd.o
+LOAD usart.o
+LOAD ds1307.o
+LOAD spi.o
+LOAD XDevMon.o
+LOAD utils.o
+LOAD GSM.o
+LOAD at45.o
+LOAD fatx.o
+LOAD DTMF.o
+LOAD a2d.o
+LOAD C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a
+LOAD C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a
+LOAD C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0xa0ee
+ *(.vectors)
+ .vectors       0x00000000       0x8c C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5/crtm128.o
+                0x00000000                __vectors
+                0x00000000                __vector_default
+                0x0000008c                __ctors_start = .
+ *(.ctors)
+                0x0000008c                __ctors_end = .
+                0x0000008c                __dtors_start = .
+ *(.dtors)
+                0x0000008c                __dtors_end = .
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x0000008c                . = ALIGN (0x2)
+ *(.init0)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000008c        0xc C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5/crtm128.o
+ *(.init3)
+ *(.init4)
+ .init4         0x00000098       0x1a C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5/crtm128.o
+                0x00000098                __do_copy_data
+ .init4         0x000000b2       0x10 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_clear_bss.o)
+                0x000000b2                __do_clear_bss
+ *(.init5)
+ *(.init6)
+ *(.init7)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000c2        0x4 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5/crtm128.o
+ *(.text)
+ .text          0x000000c6        0x4 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5/crtm128.o
+                0x000000c6                __vector_22
+                0x000000c6                __vector_28
+                0x000000c6                __vector_1
+                0x000000c6                __vector_32
+                0x000000c6                __vector_34
+                0x000000c6                __vector_24
+                0x000000c6                __vector_12
+                0x000000c6                __bad_interrupt
+                0x000000c6                __vector_31
+                0x000000c6                __vector_3
+                0x000000c6                __vector_23
+                0x000000c6                __vector_25
+                0x000000c6                __vector_11
+                0x000000c6                __vector_13
+                0x000000c6                __vector_17
+                0x000000c6                __vector_19
+                0x000000c6                __vector_27
+                0x000000c6                __vector_33
+                0x000000c6                __vector_4
+                0x000000c6                __vector_9
+                0x000000c6                __vector_2
+                0x000000c6                __vector_15
+                0x000000c6                __vector_26
+                0x000000c6                __vector_10
+                0x000000c6                __vector_20
+ .text          0x000000ca     0x4e22 VG.o
+                0x00004826                EraseNumber
+                0x000034bc                AutoDial
+                0x000038c2                SendVoice
+                0x000026d0                Enter
+                0x00001200                UpdateBarInterface
+                0x00000d02                Init
+                0x000049f6                Pulse
+                0x00002456                DialNumber
+                0x000017f0                Telephone
+                0x00001aca                LeftRight
+                0x000031b0                WaitForLineModeDefining
+                0x00004eae                LineDown
+                0x00000254                SpeakerOn
+                0x00000f12                MainMenu
+                0x00000a22                __vector_6
+                0x0000390a                DTMFCmdStorer
+                0x00001150                DrawBarInterface
+                0x000011d2                DrawInterval
+                0x0000101a                MenuListPort
+                0x000000ca                StartRecord
+                0x00004674                SendAllVoice
+                0x00004abe                AdjustLimits
+                0x00004a76                SendDTMFDigit
+                0x00001054                MenuSettings
+                0x0000444e                AutoDialNumbersOperations
+                0x0000403a                setstart
+                0x000000f6                StartPlay
+                0x000036de                AutoDial2
+                0x00000b8e                ReadEEPROMData
+                0x000001a8                __vector_30
+                0x00000fa6                MenuDevice
+                0x00004d86                ConvertVirtualToDTMFCode
+                0x000017c0                Ohrana
+                0x00001080                MenuX232
+                0x000041a2                SensorsStateChangeNotify
+                0x00001030                MenuTel
+                0x00002fce                ChangeSetupPassword
+                0x00004c68                PollBuiltinSensors2
+                0x00000a86                __vector_7
+                0x00000f90                MenuSensor
+                0x00004d6c                InitBuilinSensors
+                0x000010f2                MenuItemsInitAndDraw
+                0x0000363c                AutoDialToNumber2
+                0x000049b6                ReduceOhrana
+                0x000043f0                DialDirectNumber
+                0x00004624                PlayQueue
+                0x00003afe                DTMFCommandHandle
+                0x00004712                SetDefaultSettings
+                0x0000302a                ChangeVolume
+                0x00004e32                StartSetOhranaProcess
+                0x00003860                Ohrana_
+                0x00004e74                PlayVoice
+                0x00000974                __vector_5
+                0x00001730                ClearInput
+                0x00004154                ShowLineMode
+                0x0000106a                MenuVolume
+                0x00004a28                DialDigit
+                0x00003804                SaveDialNumberToEEPROM
+                0x00003050                main
+                0x000019a0                DrawMenuLine
+                0x000032ae                SheduleOhranaEvent
+                0x0000311e                WaitForModePresent
+                0x00002ede                ChangeTime
+                0x00001708                Setup
+                0x0000499a                StartProgress
+                0x00004584                QueueVoice
+                0x00000ddc                ChangeMenuItems
+                0x00003336                AutoDialToNumber
+                0x00002c92                HandleKeys
+                0x0000077e                __vector_29
+                0x000011a4                DrawVolume
+                0x00000ed4                Menu_
+                0x0000228c                Escape
+                0x000010b2                MenuAutoDialNumbers
+                0x00003010                ChangeLineMode
+                0x00004c06                AttachSensor
+                0x00001e68                NumerKey
+                0x00001752                Backspace
+                0x000040d6                RingOff
+                0x00000b6e                __vector_8
+                0x000037de                TimeExpiried
+                0x00001a6a                DrawMenu
+                0x000012f0                PrepareToMode
+                0x0000180c                GetItemName
+                0x00004070                StartLineAnalize
+                0x00000f7a                MenuList
+                0x00000f3c                MenuSensors
+                0x000004fc                __vector_14
+                0x00001a9e                DeletePrevChar
+                0x000006ec                __vector_16
+                0x00000274                AnalizeInterval
+                0x00000200                __vector_18
+                0x000025c2                GetTetradeFromAdr
+                0x0000254a                EnterSetup
+                0x00004894                ShowRunStr
+ .text          0x00004eec      0x22e twimaster.o
+                0x00005072                i2c_write
+                0x000050f6                i2c_readNak
+                0x000050d2                i2c_readAck
+                0x0000502e                i2c_rep_start
+                0x00004f04                i2c_start
+                0x0000505e                i2c_stop
+                0x00004f9a                i2c_start_wait
+                0x00004eec                i2c_init
+ .text          0x0000511a       0x8a tim.o
+                0x0000513c                InitTimer3
+                0x00005166                InitPWM
+                0x0000511a                InitTimer0
+ .text          0x000051a4      0x2bc lcd.o
+                0x00005322                HideCaret
+                0x000051ce                OutData
+                0x00005336                ClearSecondLine
+                0x0000537e                ReadByte
+                0x000052f2                ClearScreen
+                0x0000540e                ReadStrFromScreen
+                0x0000530e                ShowCaret
+                0x0000528e                SetCaret
+                0x0000520a                OutCmd
+                0x000052d8                InitLCD
+                0x000052c4                GetCaretPos
+                0x00005248                OutStr
+                0x000051a4                Strobe
+ .text          0x00005460      0x260 kbd.o
+                0x00005482                ScanKbd
+                0x0000563a                getcha
+                0x00005592                AddKey
+                0x00005460                InitKbd
+ .text          0x000056c0       0xf0 usart.o
+                0x0000573c                uart_init
+                0x000056c0                USART_Transmit
+                0x000056fe                GSM_Transmit
+ .text          0x000057b0      0x326 ds1307.o
+                0x000057d8                ReadTime
+                0x00005a56                WriteTime
+                0x00005930                UpdateTimePane
+                0x000057b0                InitRTC
+ .text          0x00005ad6      0x202 spi.o
+                0x00005c20                spiTransferWord
+                0x00005b7e                spiSendByte
+                0x00005c7e                spiWriteByte
+                0x00005cb6                spiReadByte
+                0x00005ad6                spiInit
+                0x00005bd8                spiTransferByte
+ .text          0x00005cd8     0x149c XDevMon.o
+                0x00005dfc                SendPacket_
+                0x00006428                ConnectToDevice
+                0x0000618c                HandleReply
+                0x00006636                GetRespond
+                0x00006f94                SendManualPacket
+                0x000067d4                HandlePrivatePacket
+                0x00006726                ChangeSensorThreshold
+                0x00005efe                HandleProtocol
+                0x00005daa                _SendPacket
+                0x0000646a                SendAll
+                0x00006574                ChangeDelayTimeBeforeSetOhrana
+                0x000060ce                GetTime
+                0x0000611a                SetTime
+                0x00005e5a                SendPacket
+                0x00007110                SetDefBuiltinTimeout
+                0x00007096                ChangeSensorReactionTimeout
+                0x00006528                GetCurDeviceInfo
+                0x000065b8                ChangePortPurpose
+                0x00006786                ChangeX232
+                0x00005ec4                SendCommand
+                0x000066a0                GetSensorThreshold
+                0x00005cd8                InitDevices
+                0x000064e0                SetOhranaState
+                0x000064c8                SwitchDeviceOhrana
+                0x00007068                EnablePoll
+ .text          0x00007174      0x400 utils.o
+                0x00007304                epmrw
+                0x00007174                delayms
+                0x000071da                delay_loop_2
+                0x000074d4                HexToInt
+                0x00007392                eeprom_write_byte_1
+                0x00007210                epmrbl
+                0x00007354                eeprom_read_byte_1
+                0x000073ce                Error
+                0x00007470                HexByte
+                0x0000728a                epmwbl
+                0x00007428                SetSpeakerVolume
+ .text          0x00007574       0x62 GSM.o
+                0x00007574                GSM_Init
+                0x000075ae                GSM_SendATCommand
+                0x00007592                GSM_TurnOn
+                0x000075a0                GSM_TurnOff
+ .text          0x000075d6      0xad2 at45.o
+                0x00007878                AT45WriteBufferToPage
+                0x00007bd2                AT45FillBuffer
+                0x00007b44                AT45PageErase
+                0x0000800c                AT45WriteBuffer
+                0x0000763a                AT45SetWriteBufferPos
+                0x00007c84                AT45ZeroPage
+                0x00007cc0                AT45StartContinueRead
+                0x00007730                AT45ReadStatus
+                0x00007e62                AT45WriteWordToPage
+                0x000075d6                AT45Init
+                0x00007ed2                AT45WriteByteToPage
+                0x00007916                AT45ReadPageToBuffer
+                0x00007d5c                AT45GetPage
+                0x00007dcc                AT45WriteThroughBuffer
+                0x00007798                AT45WriteByteToBuffer
+                0x00007680                AT45erase
+                0x000075f4                AT45SetReadBufferPos
+                0x00007a84                AT45ReadByteFromPage
+                0x00007f2a                AT45ReadPage
+                0x000079b4                AT45ReadByteFromBuffer
+ .text          0x000080a8      0xbae fatx.o
+                0x000087fa                fatxWritePageToFile
+                0x0000875e                fatxCloseFile
+                0x000085a4                fatxFormat
+                0x00008676                fatxOpenFile
+                0x00008566                fatxFileExists
+                0x000080d2                fatxGetFAT
+                0x00008420                fatxAddPageToFile
+                0x0000862c                fatxGetNextPage
+                0x0000834c                fatxDeleteFile
+                0x000084fc                fatxGetFileCount
+                0x000081a2                fatxGetEmptyPage
+                0x00008150                fatxSetFAT
+                0x000080a8                fatxInit
+                0x00008882                fatxReadByteFromFile
+                0x000089a8                fatxFileSeek
+                0x00008778                fatxReadPageFromFile
+                0x00008b9c                fatxFlushFile
+                0x00008a6c                fatxWriteByteToFile
+                0x00008280                fatxCreateFile
+ .text          0x00008c56      0x224 DTMF.o
+                0x00008d3c                initDTMF
+                0x00008d60                SendDTMF
+                0x00008c56                ISR_T1_Overflow
+ .text          0x00008e7a      0x242 a2d.o
+                0x00008fc8                a2dIsComplete
+                0x0000905a                a2dConvert8bit
+                0x00008ec2                a2dOff
+                0x00008ee6                a2dSetPrescaler
+                0x00008fe0                a2dConvert10bit
+                0x00008e7a                a2dInit
+                0x00008f1e                a2dSetReference
+                0x00009092                __vector_21
+                0x00008f6c                a2dSetChannel
+                0x00008fa6                a2dStartConvert
+ .text          0x000090bc       0x54 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_fixunssfsi.o)
+                0x000090bc                __fixunssfsi
+ .text          0x00009110      0x314 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_addsub_sf.o)
+                0x000093ba                __subsf3
+                0x00009358                __addsf3
+ .text          0x00009424      0x236 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_mul_sf.o)
+                0x00009424                __mulsf3
+ .text          0x0000965a      0x160 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_div_sf.o)
+                0x0000965a                __divsf3
+ .text          0x000097ba       0x6c C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_ge_sf.o)
+                0x000097ba                __gesf2
+ .text          0x00009826       0xc8 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_si_to_sf.o)
+                0x00009826                __floatsisf
+ .text          0x000098ee       0xa4 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_sf_to_si.o)
+                0x000098ee                __fixsfsi
+ .text          0x00009992      0x1d0 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_pack_sf.o)
+                0x00009992                __pack_f
+ .text          0x00009b62       0xf4 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_unpack_sf.o)
+                0x00009b62                __unpack_f
+ .text          0x00009c56       0xe6 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_fpcmp_parts_sf.o)
+                0x00009c56                __fpcmp_parts_f
+ .text          0x00009d3c       0x5a C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(atoi.o)
+                0x00009d3c                atoi
+ .text          0x00009d96       0x72 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(atol.o)
+                0x00009d96                atol
+ .text          0x00009e08       0x1a C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(memcpy.o)
+                0x00009e08                memcpy
+ .text          0x00009e22       0x14 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(memset.o)
+                0x00009e22                memset
+ .text          0x00009e36       0x16 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strcat.o)
+                0x00009e36                strcat
+ .text          0x00009e4c       0x14 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strcmp.o)
+                0x00009e4c                strcmp
+ .text          0x00009e60        0xe C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strcpy.o)
+                0x00009e60                strcpy
+ .text          0x00009e6e       0x12 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strlen.o)
+                0x00009e6e                strlen
+ .text          0x00009e80       0x1c C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strncmp.o)
+                0x00009e80                strncmp
+ .text          0x00009e9c       0x1e C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strncpy.o)
+                0x00009e9c                strncpy
+ .text          0x00009eba       0x1a C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strupr.o)
+                0x00009eba                strupr
+ .text          0x00009ed4       0x42 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(itoa.o)
+                0x00009ed4                itoa
+ .text          0x00009f16       0x68 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ltoa.o)
+                0x00009f16                ltoa
+ .text          0x00009f7e       0x2a C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(mulsi10.o)
+                0x00009f7e                __mulsi_const_10
+ .text          0x00009fa8       0x10 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(mul10.o)
+                0x00009fa8                __mulhi_const_10
+ .text          0x00009fb8       0x20 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(strrev.o)
+                0x00009fb8                strrev
+                0x00009fd8                . = ALIGN (0x2)
+ *(.text.*)
+ .text.libgcc   0x00009fd8       0x38 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_prologue.o)
+                0x00009fd8                __prologue_saves__
+ .text.libgcc   0x0000a010       0x36 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_epilogue.o)
+                0x0000a010                __epilogue_restores__
+ .text.eeprom   0x0000a046       0x10 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ee_rb.1C1D1E.o)
+                0x0000a046                __eeprom_read_byte_1C1D1E
+ .text.eeprom   0x0000a056        0xa C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ee_rw.1C1D1E.o)
+                0x0000a056                __eeprom_read_word_1C1D1E
+ .text.eeprom   0x0000a060       0x18 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ee_wb.1C1D1E.o)
+                0x0000a060                __eeprom_write_byte_1C1D1E
+ .text.eeprom   0x0000a078        0xa C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5\libc.a(ee_ww.1C1D1E.o)
+                0x0000a078                __eeprom_write_word_1C1D1E
+ .text.libgcc   0x0000a082       0x28 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_udivmodhi4.o)
+                0x0000a082                __udivmodhi4
+ .text.libgcc   0x0000a0aa       0x44 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_udivmodsi4.o)
+                0x0000a0aa                __udivmodsi4
+                0x0000a0ee                . = ALIGN (0x2)
+ *(.fini9)
+ *(.fini8)
+ *(.fini7)
+ *(.fini6)
+ *(.fini5)
+ *(.fini4)
+ *(.fini3)
+ *(.fini2)
+ *(.fini1)
+ *(.fini0)
+                0x0000a0ee                _etext = .
+
+.data           0x00800100      0x522 load address 0x0000a0ee
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00800100      0x456 VG.o
+                0x00800554                runstr
+                0x0080010a                g_numbers
+                0x00800408                g_params
+                0x008001e4                g_szModes
+                0x0080032c                g_szSettingsItems
+                0x00800259                g_szSetupItems
+                0x00800109                g_checkedItem
+                0x00800296                g_szDeviceItems
+                0x0080051f                szAutoDialNumbers
+                0x008002fb                g_szLinemodeItems
+                0x008003bd                g_szAutoDialNumbers
+                0x008002d4                g_szTelefonItems
+                0x008002ad                g_szDeviceSensorItems
+                0x00800126                g_szSecretPassword
+                0x00800107                szBuildNo
+                0x008002e4                g_szVolumeItems
+                0x00800336                g_InputLens
+                0x00800401                BaudRates
+                0x008003f5                g_linemodes
+                0x00800308                g_szX232Items
+                0x00800275                g_szSensorsItems
+ .data          0x00800556        0xe usart.o
+                0x00800556                baudrates
+ .data          0x00800564        0x4 ds1307.o
+ .data          0x00800568       0x14 XDevMon.o
+ .data          0x0080057c        0xd utils.o
+                0x00800583                hitrmas
+ .data          0x00800589        0x8 at45.o
+                0x00800589                buf_select_read
+                0x0080058d                buf_select_to_page
+                0x0080058f                page_select_to_buf
+                0x0080058b                buf_select_write
+ .data          0x00800591       0x88 DTMF.o
+                0x00800611                auc_frequencyH
+                0x00800591                auc_SinParam
+                0x00800615                auc_frequencyL
+ .data          0x00800619        0x8 C:/WinAVR/lib/gcc/avr/3.4.5/avr5\libgcc.a(_thenan_sf.o)
+                0x00800619                __thenan_sf
+ *(.gnu.linkonce.d*)
+                0x00800622                . = ALIGN (0x2)
+ *fill*         0x00800621        0x1 00
+                0x00800622                _edata = .
+                0x00800622                PROVIDE (__data_end, .)
+
+.bss            0x00800622      0x5f0
+                0x00800622                PROVIDE (__bss_start, .)
+ *(.bss)
+ .bss           0x00800622       0x21 VG.o
+                0x0080063a                activeBuf
+                0x00800634                g_SetupCurItem
+                0x0080063f                adcCur
+                0x00800641                g_secCnt
+                0x00800622                g_szInput
+                0x0080063b                g_DefferStage
+                0x00800640                adc_1
+                0x00800633                g_InputPos
+                0x0080063d                g_sampleCount
+                0x00800642                confirmUp
+                0x00800637                ring
+                0x00800635                g_SetupFirstLine
+                0x00800636                record
+                0x0080063c                g_dtmfCmdBufPos
+                0x00800638                zvukpos
+ .bss           0x00800643        0x1 lcd.o
+                0x00800643                g_CaretPos
+ .bss           0x00800644       0x23 kbd.o
+                0x00800644                keys_state
+                0x00800658                kbd_buf
+ .bss           0x00800667        0x2 XDevMon.o
+                0x00800667                g_packetReplyPos
+                0x00800668                devStatus
+ .bss           0x00800669        0x8 at45.o
+                0x0080066d                rBufPos
+                0x00800669                wBufPos
+ .bss           0x00800671        0x6 DTMF.o
+                0x00800675                i_CurSinValB
+                0x00800672                x_SWb
+                0x00800671                x_SWa
+                0x00800673                i_CurSinValA
+ *(COMMON)
+ COMMON         0x00800677       0xfe VG.o
+                0x00800677                unorm
+                0x0080067b                eee
+                0x0080067d                voicePresent
+                0x0080067e                tmp
+                0x0080067f                g_lastDTMFCod
+                0x00800680                g_lastIntervalCount
+                0x00800682                g_DefferedSensorsState_
+                0x00800683                g_LineModeAnalizeResultToSPI
+                0x00800684                g_Galka
+                0x00800685                g_szLastNumber
+                0x00800696                g_oldSetupCurItem
+                0x00800697                dacThresholdLOW
+                0x008006a7                g_sampleDiff
+                0x008006a8                helloCounter
+                0x008006a9                g_oldSampleDiff
+                0x008006aa                pwr
+                0x008006ac                sensorsTopLimit2
+                0x008006ae                dacThresholdHIGHT
+                0x008006be                g_telon
+                0x008006bf                g_BuiltSensorsPollInterval
+                0x008006c0                g_canShowTime
+                0x008006c1                g_wasOne
+                0x008006c2                g_SetupItem
+                0x008006c3                g_DefferedSensorsState
+                0x008006c4                g_dtmfPasswordPermission
+                0x008006c5                g_szSetupPassword
+                0x008006d0                dontStartConfirmTimer
+                0x008006d1                advancedLineMode
+                0x008006d2                sensorsBottomLimit
+                0x008006d6                delaySetOhrana
+                0x008006d8                analizeTELIN
+                0x008006d9                pMasItems
+                0x008006db                g_prevIntervalType
+                0x008006dc                g_dtmfCmdBufLast
+                0x008006e6                g_dtmfTmp
+                0x008006e7                g_wasConfirm
+                0x008006e8                g_attemptCounterTheSameNumber
+                0x008006e9                progressPos
+                0x008006ea                g_wasRequest
+                0x008006eb                www
+                0x008006ec                sensorsBottomLimit2
+                0x008006ee                g_sameIntervalCounter
+                0x008006f0                g_Mode
+                0x008006f1                g_speakerVolume
+                0x008006f2                psvSensor_num
+                0x008006f3                g_hf
+                0x008006f4                linemode
+                0x008006f5                g_dtmfPSWOk
+                0x008006f6                g_fallCounter
+                0x008006f7                g_ShowTime
+                0x008006f8                telinDivider
+                0x008006f9                sensorsTopLimit
+                0x008006fd                modeBeforeZvonok
+                0x008006fe                progress
+                0x008006ff                g_wasEnteringCall
+                0x00800700                g_needHello
+                0x00800701                useLocalDTMF
+                0x00800702                g_dtmfCmdBuf
+                0x0080070c                g_dtmfCmdBufPosLast
+                0x0080070d                g_oldSetupFirstLine
+                0x0080070e                defferedOhranaEvent
+                0x00800710                g_curBarValue
+                0x00800711                g_bSilent
+                0x00800712                g_LastKey
+                0x00800713                g_nextVoice
+                0x00800714                esp
+                0x00800716                g_dtmfMode
+                0x00800717                g_VoiceQueue
+                0x00800757                g_DTMFEnterPressCounter
+                0x00800758                lastLinemode
+                0x00800759                g_GalkaPunkt
+                0x0080075a                g_sendOhranaEventMsgInProgress
+                0x0080075b                g_IntervalCount
+                0x0080075d                g_DefferedWork
+                0x0080075e                dacRes
+                0x0080076e                sensors
+                0x0080076f                timer0delay
+                0x00800770                builtinSensorsPollInterval
+                0x00800771                g_cancelPressCount
+                0x00800772                g_CurMenuMaxItems
+                0x00800773                zvukpage
+ COMMON         0x00800775        0x4 kbd.o
+                0x00800775                keyTail
+                0x00800777                keyHead
+ COMMON         0x00800779        0x1 spi.o
+                0x00800779                spiTransferComplete
+ COMMON         0x0080077a       0x81 XDevMon.o
+                0x0080077a                g_WaitableTimer
+                0x0080077b                g_StreamStartPage
+                0x0080077d                g_lastPacket
+                0x0080078d                g_x232Interval
+                0x0080078e                link_state
+                0x00800792                g_devListReactionTimeouts
+                0x008007a2                g_StreamMode
+                0x008007a3                g_StreamEndPage
+                0x008007a5                g_StreamCurByteCounter
+                0x008007a7                g_readyPacket
+                0x008007b7                g_devList
+                0x008007cc                g_PollEnable
+                0x008007cd                g_packetReply
+                0x008007dd                g_CurDev
+                0x008007f9                g_DecTimeoutDev
+                0x008007fa                g_x232TimeOut
+ COMMON         0x008007fb      0x412 fatx.o
+                0x008007fb                cur_file
+                0x00800a0d                rootdir
+ COMMON         0x00800c0d        0x4 DTMF.o
+                0x00800c0d                i_TmpSinValA
+                0x00800c0f                i_TmpSinValB
+ COMMON         0x00800c11        0x1 a2d.o
+                0x00800c11                a2dCompleteFlag
+                0x00800c12                PROVIDE (__bss_end, .)
+                0x0000a0ee                __data_load_start = LOADADDR (.data)
+                0x0000a610                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800c12        0x0
+                0x00800c12                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800c12                PROVIDE (__noinit_end, .)
+                0x00800c12                _end = .
+                0x00800c12                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.stab           0x00000000      0x408
+ *(.stab)
+ .stab          0x00000000      0x408 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5/crtm128.o
+
+.stabstr        0x00000000       0x84
+ *(.stabstr)
+ .stabstr       0x00000000       0x84 C:/WinAVR/bin/../lib/gcc/avr/3.4.5/../../../../avr/lib/avr5/crtm128.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x12c
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x14 VG.o
+ .debug_aranges
+                0x00000014       0x14 twimaster.o
+ .debug_aranges
+                0x00000028       0x14 tim.o
+ .debug_aranges
+                0x0000003c       0x14 lcd.o
+ .debug_aranges
+                0x00000050       0x14 kbd.o
+ .debug_aranges
+                0x00000064       0x14 usart.o
+ .debug_aranges
+                0x00000078       0x14 ds1307.o
+ .debug_aranges
+                0x0000008c       0x14 spi.o
+ .debug_aranges
+                0x000000a0       0x14 XDevMon.o
+ .debug_aranges
+                0x000000b4       0x14 utils.o
+ .debug_aranges
+                0x000000c8       0x14 GSM.o
+ .debug_aranges
+                0x000000dc       0x14 at45.o
+ .debug_aranges
+                0x000000f0       0x14 fatx.o
+ .debug_aranges
+                0x00000104       0x14 DTMF.o
+ .debug_aranges
+                0x00000118       0x14 a2d.o
+
+.debug_pubnames
+                0x00000000     0x1bbe
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000      0xea9 VG.o
+ .debug_pubnames
+                0x00000ea9       0x8d twimaster.o
+ .debug_pubnames
+                0x00000f36       0x3c tim.o
+ .debug_pubnames
+                0x00000f72       0xda lcd.o
+ .debug_pubnames
+                0x0000104c       0x73 kbd.o
+ .debug_pubnames
+                0x000010bf       0x52 usart.o
+ .debug_pubnames
+                0x00001111       0x4c ds1307.o
+ .debug_pubnames
+                0x0000115d       0x8f spi.o
+ .debug_pubnames
+                0x000011ec      0x34c XDevMon.o
+ .debug_pubnames
+                0x00001538       0xc2 utils.o
+ .debug_pubnames
+                0x000015fa       0x54 GSM.o
+ .debug_pubnames
+                0x0000164e      0x233 at45.o
+ .debug_pubnames
+                0x00001881      0x19a fatx.o
+ .debug_pubnames
+                0x00001a1b       0xcf DTMF.o
+ .debug_pubnames
+                0x00001aea       0xd4 a2d.o
+
+.debug_info     0x00000000     0x5d33
+ *(.debug_info)
+ .debug_info    0x00000000     0x25e3 VG.o
+ .debug_info    0x000025e3      0x24f twimaster.o
+ .debug_info    0x00002832      0x127 tim.o
+ .debug_info    0x00002959      0x2ea lcd.o
+ .debug_info    0x00002c43      0x251 kbd.o
+ .debug_info    0x00002e94      0x1af usart.o
+ .debug_info    0x00003043      0x249 ds1307.o
+ .debug_info    0x0000328c      0x26a spi.o
+ .debug_info    0x000034f6      0xe2a XDevMon.o
+ .debug_info    0x00004320      0x5ae utils.o
+ .debug_info    0x000048ce      0x15a GSM.o
+ .debug_info    0x00004a28      0x71b at45.o
+ .debug_info    0x00005143      0x6f2 fatx.o
+ .debug_info    0x00005835      0x243 DTMF.o
+ .debug_info    0x00005a78      0x2bb a2d.o
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x00000000      0xe66
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1d8 VG.o
+ .debug_abbrev  0x000001d8       0xb5 twimaster.o
+ .debug_abbrev  0x0000028d       0x34 tim.o
+ .debug_abbrev  0x000002c1       0xb3 lcd.o
+ .debug_abbrev  0x00000374       0xd6 kbd.o
+ .debug_abbrev  0x0000044a       0x89 usart.o
+ .debug_abbrev  0x000004d3       0xcf ds1307.o
+ .debug_abbrev  0x000005a2       0xcd spi.o
+ .debug_abbrev  0x0000066f      0x22d XDevMon.o
+ .debug_abbrev  0x0000089c      0x188 utils.o
+ .debug_abbrev  0x00000a24       0x58 GSM.o
+ .debug_abbrev  0x00000a7c      0x125 at45.o
+ .debug_abbrev  0x00000ba1      0x187 fatx.o
+ .debug_abbrev  0x00000d28       0x8f DTMF.o
+ .debug_abbrev  0x00000db7       0xaf a2d.o
+
+.debug_line     0x00000000     0x54ce
+ *(.debug_line)
+ .debug_line    0x00000000     0x2bd1 VG.o
+ .debug_line    0x00002bd1      0x19a twimaster.o
+ .debug_line    0x00002d6b      0x146 tim.o
+ .debug_line    0x00002eb1      0x242 lcd.o
+ .debug_line    0x000030f3      0x22e kbd.o
+ .debug_line    0x00003321      0x154 usart.o
+ .debug_line    0x00003475      0x253 ds1307.o
+ .debug_line    0x000036c8      0x199 spi.o
+ .debug_line    0x00003861      0xae7 XDevMon.o
+ .debug_line    0x00004348      0x275 utils.o
+ .debug_line    0x000045bd      0x116 GSM.o
+ .debug_line    0x000046d3      0x548 at45.o
+ .debug_line    0x00004c1b      0x573 fatx.o
+ .debug_line    0x0000518e      0x1e9 DTMF.o
+ .debug_line    0x00005377      0x157 a2d.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x00000000      0x144
+ *(.debug_str)
+ .debug_str     0x00000000       0x6d VG.o
+ .debug_str     0x0000006d        0x8 twimaster.o
+ .debug_str     0x00000075       0x16 kbd.o
+ .debug_str     0x0000008b        0xd usart.o
+ .debug_str     0x00000098        0xd ds1307.o
+ .debug_str     0x000000a5       0x2d XDevMon.o
+ .debug_str     0x000000d2       0x28 utils.o
+ .debug_str     0x000000fa       0x22 at45.o
+ .debug_str     0x0000011c       0x1b fatx.o
+ .debug_str     0x00000137        0xd DTMF.o
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(VG.elf elf32-avr)

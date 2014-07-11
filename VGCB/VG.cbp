@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="VG" />
+		<Option platforms="Windows;" />
+		<Option makefile_is_custom="1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<MakeCommands>
+			<Build command="$make  -f $makefile $target" />
+			<CompileFile command="c:\WinAVR\utils\bin\make.exe  -f $makefile $file" />
+			<Clean command="c:\WinAVR\utils\bin\make.exe  -f $makefile clean$target" />
+			<DistClean command="c:\WinAVR\utils\bin\make.exe  -f $makefile distclean$target" />
+		</MakeCommands>
+		<Build>
+			<Target title="All">
+				<Option platforms="" />
+				<Option output="VG.sys" prefix_auto="1" extension_auto="1" />
+				<Option working_dir="" />
+				<Option type="5" />
+				<Option compiler="gcc" />
+				<Option projectCompilerOptionsRelation="0" />
+				<Compiler>
+					<Add option="ghjgfhjgfhj" />
+					<Add option="-Dcbngfhjj" />
+				</Compiler>
+				<MakeCommands>
+					<Build command="$make  -f $makefile $target" />
+					<CompileFile command="c:\WinAVR\utils\bin\make.exe  -f $makefile $file" />
+					<Clean command="c:\WinAVR\utils\bin\make.exe  -f $makefile clean$target" />
+					<DistClean command="c:\WinAVR\utils\bin\make.exe  -f $makefile distclean$target" />
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="..\CodeBlocksBUG.inc" />
+		<Unit filename="..\DTMF.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\DTMF.h" />
+		<Unit filename="..\VG.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Makefile" />
+		<Unit filename="VG.cbp" />
+		<Unit filename="..\XDevMon.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\at45.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\at45.h" />
+		<Unit filename="..\ds1307.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\kbd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\kbd.h" />
+		<Unit filename="..\lcd.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\stdafx.h" />
+		<Unit filename="..\tim.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\usart.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="..\vg.h" />
+		<Unit filename="..\xdevmon.h" />
+		<Extensions>
+			<code_completion />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
